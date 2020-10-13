@@ -4,3 +4,6 @@ build/
 temp/
 tmp/*
 !tmp/.gitkeep
+
+ormconfig.json
+.env
